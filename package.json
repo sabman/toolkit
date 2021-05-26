@@ -30,7 +30,7 @@
     "@salte-auth/popup": "1.0.0-rc.2",
     "@salte-auth/salte-auth": "3.0.0-rc.8",
     "acorn": "^7.1.1",
-    "jest": "^24.9.0",
+    "jest": "^25.0.0",
     "jest-environment-jsdom-fifteen": "^1.0.0",
     "jest-fetch-mock": "^2.1.2",
     "mitt": "^1.1.3",
